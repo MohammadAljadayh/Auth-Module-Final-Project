@@ -26,6 +26,16 @@ app.get('/', (req, res) => {
   res.status(200).send('auth-api server');
 });
 
+
+app.get('/status', (req, res) => {
+
+res.status(200).send({
+    "status": "running",
+    "port": 3001
+
+});
+})
+
 app.use(authRoutes);
 app.use('/api/v1', v1Routes);
 app.use('/api/v2', v2Routes);
