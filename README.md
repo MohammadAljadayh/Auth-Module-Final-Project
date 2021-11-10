@@ -43,18 +43,18 @@
 
 ## Heroku applications 
 
-*   [main branch]() 
+*   [main branch](https://finalauthgropd.herokuapp.com/) 
 *    
 
 ## Github actions
 
-*    [actions]()      
+*    [actions](https://github.com/MohammadAljadayh/Auth-Module-Final-Project/actions)      
 
 
 ## pull request
 
 
-* [last pull request]()
+* [last pull request](https://github.com/MohammadAljadayh/Auth-Module-Final-Project/pull/6)
 
 
 # dependencies 💯
