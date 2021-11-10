@@ -11,6 +11,4 @@ const addressModal = (sequelize, DataTypes) => sequelize.define('addresses', {
 }
 });
 
-
-
 module.exports = addressModal;
